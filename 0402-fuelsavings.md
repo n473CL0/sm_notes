@@ -1,8 +1,5 @@
-
-### Brief: Think about what the final formula could look like
-
-Date: 04/02 \
-Signed: Nathan
+Brief: Think about what the final formula could look like
+Date: 04/02
 
 ### Notes
 
@@ -30,6 +27,7 @@ $$
 ## Model 1 - helpful for calculating cash flows per year (deliverable 1.3)
 
 **Fuel Cost**
+
 $$
 M = P \times A
 $$
@@ -38,6 +36,7 @@ M = P \times C\times t
 $$
 
 **Fuel Savings**
+
 $$
 S = M_1 - M_2
 $$
@@ -49,13 +48,12 @@ e.g $C_1$ is no hull cleaning, $C_2$ is ScrubMarine cleaning
 
 ## Model 2 - better for unit analysis by fuel, type, size, route, operating conditions (deliverable 1.1 and 1.4)
 
-
-
 $$
 M = P \times A
 $$
 
 where 
+
 $$
 A = f(\text{fuel, type, size, route, operating conditions})
 $$
@@ -92,6 +90,4 @@ Some of the resources below will be useful for determining $f$.
 Actions:
 * Find a solution for $f$ = $\text{amount of fuel used}$ given conditions
 * Determine carbon savings part of the core equation
-
-##
 
